@@ -1,17 +1,12 @@
 ## Instructor Contact Information
 
-- Stoney Jackson, Ph.D., he/him
-- Email: [Stoney.Jackson@wne.edu](mailto:Stoney.Jackson@wne.edu)
-- Office: H207b and class Discord server
+- Declan Gray-Mullen, M.S., he/him
+- Email: [Declan.Gray-Mullen@wne.edu](mailto:Declan.Gray-Mullen@wne.edu)
+- Office: H207, [Zoom](https://wne-edu.zoom.us/j/91287949959), class Discord server
 
 ### Office Hours
+In H207 Monday 2:30 - 3:30 
 
-Please, please, please make use of my office hours. I love what I teach,
-and I am more than happy to help you learn it.
+Zoom on Friday Mornings 11 - 12
 
-Use the following link to schedule a time to meet with me in-person or
-over Zoom.
-
-When secheduling a meeting, set your timezone by click the timezon icon image:timezone.png[] ![](timezone.png).
-
-- [https://outlook.office.com/bookwithme/user/2b8e5ed3fd014d8d9a50575b3ed48150@wne.edu?anonymous&ep=plink](https://outlook.office.com/bookwithme/user/2b8e5ed3fd014d8d9a50575b3ed48150@wne.edu?anonymous&ep=plink)
+Send me an email if you'd like to schedule an alternative time to meet
