@@ -7,6 +7,6 @@
 ### Office Hours
 In H207 Monday 2:30 - 3:30 
 
-Zoom on Friday Mornings 11 - 12
+Zoom on Friday 11 - 12
 
 Reach out via email or send a message on the class Discord server if you'd like to schedule an alternative time to meet
